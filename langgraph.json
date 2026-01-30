@@ -1,0 +1,8 @@
+{
+  "dependencies":[
+    "."
+  ],
+  "graphs": {
+    "Propsective_employee_agent": "./customer_wc.py:app"
+  }
+}

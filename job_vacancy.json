@@ -1,0 +1,7 @@
+[
+  {"id": 1, "title": "AI Engineer", "dept": "Engineering", "location": "Bangalore"},
+  {"id": 2, "title": "SDE Intern", "dept":"Engineering","location":"Hyderabad"},
+  {"id": 3, "title": "HR Manager", "dept": "HR", "location": "Mumbai"},
+  {"id": 4, "title": "Cyber Security Analyst", "dept" :"Engineering" , "location":"Bangalore"},
+  {"id": 5, "title": "Data Analytics","dept":"Engineering/Analysis","location":"Hyderabad"}
+]

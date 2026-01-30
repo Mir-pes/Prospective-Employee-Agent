@@ -1,0 +1,37 @@
+[
+    {
+        "policy-name" : "Leave Policy",
+        "Category" : "HR",
+        "Classification": [
+            {
+                "Leave_Type" : "Medical , Personal , Optional Leave , Professional Purposes",
+                "Permissiable_Days_Off":"7 days"
+            }
+        ]
+    },
+
+    {
+        "policy-name":"Office Timings",
+        "Category":"HR",
+        "Working_Hours":"7 hrs per day excluding weekends , can log in anytime provided you spend 7 hours in the office"
+    },
+
+    {
+        "policy-name":"Hybrid",
+        "Category":"Operations",
+        "Allowed_For":"Senior Engineers , 2 days per week"
+
+    },
+
+    {
+        "policy-name":"Data Security and Compliance",
+        "Category":"HR",
+        "NDA":"Ensure the projects and data worked on is completely Confidential within the company premises"
+    },
+
+    {
+        "policy-name":"Compensation and Benefits",
+        "Category":"Operations",
+        "CTC":"According to Market Standards and Employee's performance"
+    }
+]

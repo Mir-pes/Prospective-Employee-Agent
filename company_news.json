@@ -1,0 +1,30 @@
+[
+  {
+    "date": "2025-01-10",
+    "title": "Q4 2024 Results Announced",
+    "category": "Business",
+    "content": "Company exceeded revenue targets by 15%..."
+  },
+
+  {
+    "date": "2025-01-05",
+    "title": "Restructuring in Sales Department",
+    "category": "Layoffs",
+    "content": "Sales team reduced by 10% due to market conditions..."
+  },
+
+  {
+    "date": "2026-01-13",
+    "title": "AI Integration In Department",
+    "category": "AI",
+    "content": "The company is off late adopting an AI@Work Policy..."
+  },
+
+  {
+    "date": "2025-07-05",
+    "title": "Cloud Adoption",
+    "category": "Cloud",
+    "content": "The company is accelerating it's growth in cloud adoption and infrastructure..."
+  }
+
+]
