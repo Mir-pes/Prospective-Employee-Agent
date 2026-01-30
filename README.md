@@ -18,7 +18,7 @@ Modular and extensible design
 
 Setup Instructions
 1. Clone the repository
-2. Create a virtual repository
+2. Create a virtual environment
 3. Install dependencies
 4. Set environment variables , either in powershell or create a seperate .env file in the same folder
 5. Incorporate and run langsmith studio using the command langgraph dev
