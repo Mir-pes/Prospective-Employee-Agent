@@ -24,4 +24,4 @@ This project is intended for internal or experimental use, not for direct public
 4. Set environment variables , either in powershell or create a seperate .env file in the same folder
 5. Incorporate and run langsmith studio using the command langgraph dev
 
-# PS: For langsmith studio there are dependencies and hierachies which you need to establish before running langgraph dev , you can find it in the [academy.langchain](https://academy.langchain.com/courses/intro-to-langgraph) documentation
+PS: For langsmith studio there are dependencies and hierachies which you need to establish before running langgraph dev , you can find it in the [academy.langchain](https://academy.langchain.com/courses/intro-to-langgraph) documentation
